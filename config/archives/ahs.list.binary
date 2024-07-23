@@ -1,0 +1,3 @@
+deb http://mxrepo.com/mx/repo/ bookworm ahs
+deb http://mxrepo.com/mx/repo/ bookworm main non-free 
+deb http://mxrepo.com/mx/testrepo/ bookworm test

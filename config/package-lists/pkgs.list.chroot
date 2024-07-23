@@ -1,0 +1,29 @@
+# tools for LiveCD ISO
+plasma-workspace
+dolphin
+konsole 
+sddm
+firefox-esr
+xorg
+# base gis-packages
+qgis
+qgis-plugin-grass
+grass
+grass-doc
+grass-gui
+gdal-bin
+python3-gdal
+postgresql
+postgis
+cgi-mapserver
+mapserver-bin
+default-jdk
+# additional tools and libraries
+proj-bin
+proj-data
+spatialite-bin
+libsqlite3-mod-spatialite
+python3-fiona
+python3-shapely
+python3-pyproj
+ca-certificates
